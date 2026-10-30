@@ -1,0 +1,14 @@
+h1{
+   color: rgb(20, 20, 54);
+   margin-left: 70px;
+}
+.one{
+    background-color: rgb(133, 149, 161);
+    width: 200px;
+    height: 120px;
+    color: ghostwhite;
+    padding: 10px;
+    margin: 50px;
+    border: 3px rgb(83, 61, 61) solid;
+
+}
